@@ -4,13 +4,13 @@ A Python-based SIM Card Communication Emulator built with Tkinter. It simulates 
 
 Features
 
-  SIM registration and authentication
-  TMSI assignment
-  Call and SMS simulation between registered SIMs
-  Communication and SMS logs
-  Simple Tkinter GUI
+SIM registration and authentication
+TMSI assignment
+Call and SMS simulation between registered SIMs
+Communication and SMS logs
+Simple Tkinter GUI
 
 Setup
 
-  Clone the repository
-  Run the application sim_emulator_gui.py
+Clone the repository
+Run the application sim_emulator_gui.py
